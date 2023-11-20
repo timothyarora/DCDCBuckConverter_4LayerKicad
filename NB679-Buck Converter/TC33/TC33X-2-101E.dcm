@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC33X-2-101E
+D SMD single turn trimmer 100R 25% top adj Bourns TC33 Series SMD Trimmer Resistor with Solder Pad Terminations, 100 +/-25% 0.1W +/-250ppm/C Top Adjust
+K
+F https://www.bourns.com/pdfs/TC33.pdf
+$ENDCMP
+#
+#End Doc Library

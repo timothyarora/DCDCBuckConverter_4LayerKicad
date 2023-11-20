@@ -1,0 +1,24 @@
+### Footprint positions - created on Sat Nov 18 21:07:09 2023 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                                           PosX       PosY       Rot  Side
+C1        22uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   108.7000   -81.2375  -90.0000  top
+C2        4.7uF       C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   120.9375   -92.9000  180.0000  top
+C3        1uF         C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   111.6000   -90.4000  180.0000  top
+C4        220nF       C_0402_1005Metric_Pad0.74x0.62mm_HandSolder   127.8000   -86.9325  -90.0000  top
+C5        22uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   114.0000  -100.0000  180.0000  top
+C6        22uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   114.0000  -105.0000  180.0000  top
+C7        22uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   114.0000  -110.0000  180.0000  top
+C8        22uF        C_0805_2012Metric_Pad1.18x1.45mm_HandSolder   114.0000  -115.0000  180.0000  top
+GND       Conn_01x01  PinHeader_1x01_P2.54mm_Vertical                97.4000   -81.3000    0.0000  top
+GND       Conn_01x01  PinHeader_1x01_P2.54mm_Vertical                97.2000   -89.4000    0.0000  top
+L1        1.5uH       IND_FP                                        128.0000   -93.1000  -90.0000  top
+R1        2.2MΩ      R_0805_2012Metric_Pad1.20x1.40mm_HandSolder   120.7000   -77.9000   90.0000  top
+R2        100k        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder   116.8500   -90.4000  180.0000  top
+R3        3.3Ω       R_1206_3216Metric_Pad1.30x1.75mm_HandSolder   127.8000   -81.0500  -90.0000  top
+RV1       1MΩ        POT_FP                                        118.1000   -66.9000    0.0000  top
+U1        NB679       IC_NB679_FP                                   120.6000   -87.0000    0.0000  top
+Vin       Conn_01x01  PinHeader_1x01_P2.54mm_Vertical                97.9000   -66.1000    0.0000  top
+Vout      Conn_01x01  PinHeader_1x01_P2.54mm_Vertical                97.1000  -106.3000    0.0000  top
+## End
