@@ -1,0 +1,1 @@
+I crafted the 4-Layer PCB layout for the NB679 Buck Converter using KiCad, making effective use of both the Schematic Editor and PCB Editor. I meticulously designed custom symbols and footprints, adhering closely to the NB679 datasheet to ensure precision and optimization in the circuit layout.
